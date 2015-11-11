@@ -1,0 +1,1 @@
+# spray-scaldi-example
